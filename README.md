@@ -5,6 +5,9 @@
     
 Python library to extract machine resources information.
 </p>
+<p align="center">
+Python library to extract machine resources information.
+</p>
 
 ---
 
