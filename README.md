@@ -3,7 +3,7 @@
     <a href="#logo" alt="pysys logo">
         <img src="http://uupload.ir/files/lls2_capture.png" /></a>
     
-        Python library to extract machine resources information.
+Python library to extract machine resources information.
 </p>
 
 ---
