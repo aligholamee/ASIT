@@ -14,9 +14,6 @@ import platform
 import platform
 
 class Pysys:
-    
-    def __init__(self, **kwargs):
-        return super().__init__(**kwargs)
 
     def os_name(self):
         return platform.system()
