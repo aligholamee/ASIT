@@ -4,7 +4,7 @@ setup(
     name = 'pysys',
     packages = ['pysys'],
     version = '0.1',
-    description = 'A Python Library to Extract Operating System Information',
+    description = 'Python library to extract machine resources information',
     author = 'Ali Gholami', 
     author_email = 'aligholami7596@gmail.com',
     url = 'https://github.com/aligholamee/pysys',
