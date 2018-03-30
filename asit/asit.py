@@ -8,6 +8,7 @@
 '''
     Advanced System Information Toolbox Python Library.
 '''
+import platform
 
 def os_name():
     return platform.system()
