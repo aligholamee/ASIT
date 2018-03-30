@@ -1,6 +1,6 @@
-# pysys
+# System Information Toolbox
 <p align="center">
-    <a href="#logo" alt="pysys logo">
+    <a href="#logo" alt="sit logo">
         <img src="http://uupload.ir/files/0ndf_capture.png" /></a>
 </p>
 <p align="center">
