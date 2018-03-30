@@ -1,1 +1,1 @@
-import asit.Functions
+from .asit import *
