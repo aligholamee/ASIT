@@ -1,5 +1,5 @@
 # ========================================
-# [] File Name : funcs.py
+# [] File Name : Functions.py
 #
 # [] Creation Date : March 2018
 #
