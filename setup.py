@@ -2,7 +2,8 @@ from setuptools import setup
 
 setup(
     name = 'asit',
-    version = '0.3',
+    version = '0.5',
+    packages = ['asit'],
     description = 'Advanced System Information Toolbox Python Library',
     author = 'Ali Gholami', 
     author_email = 'aligholami7596@gmail.com',
