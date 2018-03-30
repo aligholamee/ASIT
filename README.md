@@ -1,10 +1,10 @@
-# System Information Toolbox
+# ASIT
 <p align="center">
     <a href="#logo" alt="sit logo">
         <img src="http://uupload.ir/files/0ndf_capture.png" /></a>
 </p>
 <p align="center">
-Python library to extract machine resources information.
+Advanced System Information Toolbox Library.
 </p>
 
 ---

@@ -1,19 +1,16 @@
-import platform
-
-
 # ========================================
-# [] File Name : sit.py
+# [] File Name : asit.py
 #
 # [] Creation Date : March 2018
 #
 # [] Created By : Ali Gholami (aligholami7596@gmail.com)
 # ========================================
 '''
-    System Information Toolbox Python Library.
+    Advanced System Information Toolbox Python Library.
 '''
 import platform
 
-class Sit:
+class Asit:
 
     def os_name(self):
         return platform.system()
