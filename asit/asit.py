@@ -5,19 +5,24 @@
 #
 # [] Created By : Ali Gholami (aligholami7596@gmail.com)
 # ========================================
-'''
+"""
     Advanced System Information Toolbox Python Library.
-'''
+"""
 import platform
+
 
 def os_name():
     return platform.system()
 
+
 def processor_family():
     return platform.processor()
+
 
 def arc():
     return platform.machine()
 
+
 def full_name():
     return platform.uname()
+

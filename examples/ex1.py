@@ -1,4 +1,6 @@
-import asit.asit as yul
+import asit
 
-print(yul.processor_family())
-print(yul.os_name())
+print(asit.full_name())
+print(asit.arc())
+print(asit.os_name())
+print(asit.processor_family())
