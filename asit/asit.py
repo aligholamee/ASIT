@@ -8,18 +8,15 @@
 '''
     Advanced System Information Toolbox Python Library.
 '''
-import platform
 
-class Asit:
+def os_name():
+    return platform.system()
 
-    def os_name(self):
-        return platform.system()
-    
-    def processor_family(self):
-        return platform.processor()
-    
-    def arc(self):
-        return platform.machine()
+def processor_family():
+    return platform.processor()
 
-    def full_name(self):
-        return platform.uname()
+def arc():
+    return platform.machine()
+
+def full_name():
+    return platform.uname()

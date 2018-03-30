@@ -1,5 +1,5 @@
-from asit import Asit as sit
+import asit
 
-print(sit.processor_family)
-print(sit.arc)
-print(sit.os_name)
+print(asit.processor_family)
+print(asit.arc)
+print(asit.os_name)
