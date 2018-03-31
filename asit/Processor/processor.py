@@ -37,5 +37,11 @@ class Processor:
         """
         return psutil.cpu_count()
 
+    @staticmethod
+    def get_freq(self):
+        """
+        :return: The cpu frequency.
+        """
+        return psutil.cpu_freq()
 
 
