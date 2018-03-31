@@ -10,6 +10,7 @@
 """
 import platform
 import psutil
+import subprocess
 
 class Processor:
 
@@ -40,8 +41,16 @@ class Processor:
     @staticmethod
     def get_freq(self):
         """
-        :return: The cpu frequency.
+        :return: The cpu frequency
         """
         return psutil.cpu_freq()
+
+    @staticmethod
+    def get_l3_cache(self):
+        """
+        :return: Layer 3 cache size
+        """
+        return subprocess.Popen('wmic cpu get L3CacheSize')
+
 
 
